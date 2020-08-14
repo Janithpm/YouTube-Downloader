@@ -9,8 +9,9 @@
     [5] paste the link of the video which you want to download.
     [6] Select the video quality and subtitle.
 # required links:
-    [1] Python Interpreter:https://www.python.org/downloads/
-    [2] yotube_dl module:https://pypi.org/project/youtube_dl/
+   [1] Python Interpreter:https://www.python.org/downloads/
+# 
+   [2] yotube_dl module:https://pypi.org/project/youtube_dl/
 # 
 Enjoy!
 
