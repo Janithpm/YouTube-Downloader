@@ -1,6 +1,5 @@
 # YouTube-Downloader
 # 
- This repository is about YouTube video / playlist Downloader
  This YouTube Video / Playlist Downloader is based on Python youtube_dl Module.
 # Follow the steps in given below,
     [1] Install Python interpreter into your computer.
