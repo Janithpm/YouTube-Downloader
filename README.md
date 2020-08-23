@@ -1,6 +1,8 @@
 # YouTube-Downloader
 # 
  This YouTube Video / Playlist Downloader is based on Python youtube_dl Module.
+ To Use YOUTUBE DOWNLOADER just download the zip file and exract it. Then double click the executble file (.EXE) and install it into your computer.
+ 
 # Follow the steps in given below,
     [1] Install Python interpreter into your computer.
     [2] Install Python youtube_dl module.
